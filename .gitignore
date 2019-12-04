@@ -1,0 +1,8 @@
+observatory/src/main/resources/
+observatory/target
+observatory/project/target/
+observatory/project/project/
+observatory/capstone-ui/target/
+observatory/.idea
+
+
